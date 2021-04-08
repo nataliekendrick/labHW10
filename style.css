@@ -1,0 +1,84 @@
+@import url("https://use.typekit.net/jnv5djy.css");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+body{
+	background-color: pink;
+}
+
+h1{
+
+	font-family: opake, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 40px;
+	position: relative;
+	left: 50px;
+	width: 100px;
+	color: white;
+	-webkit-text-stroke: 2px black;
+}
+
+.filter{
+	font-family: 'Quicksand', sans-serif;
+	position: relative;
+	left: 50px;
+}
+
+button{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	background-color: hotpink;
+	padding: 6px 15px;
+	text-align: center;
+	cursor: pointer;
+	color: white;
+	-webkit-text-stroke: 0px black;
+	border-radius: 8px;
+	position: relative;
+	left: 10px;
+}
+
+.genreTag {
+  padding:4px 8px;
+  border: 1px solid black;
+  margin: 4px;
+  border-radius: 8px;
+
+
+  font-family: 'Quicksand', sans-serif;
+	background-color: white;
+}
+
+.songContainer{
+  padding:16px 24px;
+  margin:8px;
+  border-radius: 8px;
+  border-left: 3px solid white;
+  background-color: hotpink; opacity:0.8;
+
+}
+
+.filter{
+	padding: 2rem;
+}
+
+h2{
+	font-family: opake, sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 30px;
+	-webkit-text-stroke: 1px white;
+
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+
+
+
+
+
